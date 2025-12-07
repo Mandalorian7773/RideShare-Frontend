@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig
+.git
+.expo
+.expo-shared
